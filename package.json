@@ -1,0 +1,22 @@
+{
+  "name": "fdim-turnjs",
+  "version": "1.0.0",
+  "description": "turnjs",
+  "main": "lib/turn.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FDIM/turnjs.git"
+  },
+  "keywords": [
+    "turnjs"
+  ],
+  "author": "Emmanuel Garcia",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/blasten/turn.js/issues"
+  },
+  "homepage": "https://github.com/blasten/turn.js"
+}
